@@ -1,0 +1,22 @@
+{
+  "name": "jestanotherrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davezer/JestAnotherRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davezer/JestAnotherRPG/issues"
+  },
+  "homepage": "https://github.com/davezer/JestAnotherRPG#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
